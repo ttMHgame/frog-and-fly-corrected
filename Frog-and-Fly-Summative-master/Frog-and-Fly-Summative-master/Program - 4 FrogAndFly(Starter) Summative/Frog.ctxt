@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment1.text=\r\n\ sets\ frog\ speed\r\n\ @param\ There\ is\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ types\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ lets\ frog\ act\r\n\ @param\ There\ is\ no\ parameters\r\n\ @return\ There\ is\ no\ return\ types\r\n
+numComments=3
