@@ -1,4 +1,4 @@
-import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+ // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
  * 5 marks
@@ -31,6 +31,7 @@ public class Beach extends World
        score = new Scoreboard();
         addObject( score, 75, 25);
        // add a Frog object at the center of the world 
+       addObject(new Frog(), getWidth()/2  , getHeight()/2 );
        
        if(no== 0){
             addFood(10);
